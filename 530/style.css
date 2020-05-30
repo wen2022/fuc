@@ -1,0 +1,260 @@
+body {
+    max-width: 1903px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+}
+
+.top_nav{
+    display: flex;
+    width: 1903px;
+    height:86px;
+    background-color:white;
+    justify-content: start;
+    align-items: center;
+}
+
+.processor{
+    margin-right: 50px;
+    font-family: Microsoft JhengHei;
+    font-size: 25px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.amd_logo{
+    width: 135px;
+    height:40px;
+    margin-right: 100px;
+    margin-left: 200px;
+}
+
+.pro_arrow{
+    width:25px;
+    height:25px;
+    margin-top: 5px;
+    margin-right: 80px;
+}
+
+.main{
+    background-image:url("./img/technology-computer-lines-board-50711.png");
+    width:1903px;
+    height:760px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.main_pic{
+    width:632px;
+    height:613px;
+    justify-content:center;
+    margin-right: 200px;
+}
+
+.main_1{
+    margin-top: 150px;
+}
+.main_des{
+   justify-items: center;
+   text-align: left;
+   align-content: center;
+   line-height: 100px;
+   padding-top: 200px;
+   color: white;
+}
+
+.main_line_1{
+    font-size: 72px;
+    font-family: Microsoft JhengHei;
+}
+
+.main_line_2{
+    font-size: 20px;
+    font-family: Microsoft JhengHei;
+}
+
+.main_line_3{
+    font-size: 35px;
+    font-family: Microsoft JhengHei;
+    border: solid 1px #ffffff;
+}
+
+.sub_main{
+    width:1903px;
+    height:642px;
+    display: flex;
+    justify-content: center;
+}
+.sub_main_left{
+    height:642px;
+    width:905px;
+    margin-right: 50px;
+}
+
+.sub_main_des{
+    display: flex;
+    justify-content: space-between;
+    font-family: Microsoft JhengHei;
+    align-content: space-between;
+    font-weight: lighter;
+}
+
+.amd_embedded{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.sub_main_left_learn_more{
+    font-size: 25px;
+    border: solid 1px #000000;
+    margin-top: 5px;
+}
+
+.sub_main_2{
+    background-color: #000000;
+    width:1903px;
+    height:528px;
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+}
+
+.sub_main_2_pic{
+    width:983px;
+    height:528px;
+}
+.sub_main_2_des{
+    justify-items: center;
+    text-align: left;
+    align-content: center;
+    color: white;
+    width:819px;
+    font-family: Microsoft JhengHei;
+    padding-top: 100px;
+}
+
+.sub_main_2_des_line1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.sub_main_2_des_line2{
+    font-size: 32px;
+    font-weight: bold;
+}
+.sub_main_2_des_line3{
+    font-size: 17px;
+    font-weight: bold;
+}
+.sub_main_2_des_pic{
+    display: flex;
+    align-content: center;
+}
+.ryzen{
+    width:356px;
+    height:259px;
+    margin-right: 300px;
+}
+
+.sub_main_2_des_learn_more{
+    font-size: 30px;
+    align-self: center;
+    border:solid 1px #ffffff;
+}
+
+.red_zone{
+    display: flex;
+    margin-top: 50px;
+    padding-top: 30px;
+    width: 1902px;
+    height: 859px;
+    background-color: #660000;
+    justify-content: center;
+}
+
+.red_zone_des{
+    width:880px;
+    font-family: Microsoft JhengHei;
+    margin-right: 70px;
+}
+.red_zone_des1{
+    width:880px;
+    font-family: Microsoft JhengHei;
+}
+.monster_hunter_pic{
+    width:880px;
+    height:542px;
+}
+.red_zone_left_des{
+    margin-top: 30px;
+}
+.red_zone_left_des_1{
+    font-size: 32px;
+    color: white;
+    font-weight: bolder;
+}
+
+.red_zone_left_des_2{
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.red_zone_left_des_learn_more{
+    color: white;
+    font-size: 30px;
+    align-self: center;
+    border:solid 1px #ffffff;
+    text-decoration: none;
+}
+
+footer{
+    width:1903px;
+    height:225px;
+    background-color: #000000;
+    padding-top: 53px;
+}
+
+.contact{
+    display: flex;
+    margin-left: 240px;
+    justify-content: start;
+}
+.btn{
+    margin-right: 30px;
+}
+
+.corp{
+    display: flex;
+    margin-top: 26px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+.corp_des{
+    font-size: 24px;
+    color: white;
+    font-family: Microsoft JhengHei;
+}
+
+.corp_btn{
+    width: 32px;
+    height: 32px;
+}
+
+.line {
+    background-color: white;
+    width: 1521px;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 17px;
+    margin-top: 17px;
+}
